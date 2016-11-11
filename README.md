@@ -9,6 +9,7 @@ Write a simplified version of a Tennis Game (think of the Wii Tennis minigame)
 - If at least three points have been scored by each side and a player has one more point than his opponent, the score of the game is "advantage" for the player in the lead.
 
 *Examples:*
+
 Initial love - love  
 player1 scores > Score: 15 - love  
 player2 scores > Score: 15 - 15  
