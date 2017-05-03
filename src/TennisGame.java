@@ -1,18 +1,18 @@
 
 public class TennisGame {
-public TennisGame() {
+	public TennisGame() {
 		// TO BE IMPLEMENTED
 	}
-	
+
 
 	public void player1Scored() throws TennisGameException {
 		// To be implemented
 	}
-	
+
 	public void player2Scored() throws TennisGameException {
 		// TO BE IMPLEMENTED
-		}
-	
+	}
+
 	public String getScore() {
 		// Here is the format of the scores: "player1Score - player2Score"
 		// "0 - 0"
@@ -28,7 +28,7 @@ public TennisGame() {
 		// "advantage player2"
 		// "game player1"
 		// "game player2"
-		
+
 		// TO BE IMPLEMENTED
 		return "";
 	}
