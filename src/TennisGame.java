@@ -30,6 +30,6 @@ public class TennisGame {
 		// "game player2"
 
 		// TO BE IMPLEMENTED
-		return "";
+		return "0 - 0";
 	}
 }
